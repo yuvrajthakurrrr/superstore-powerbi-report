@@ -5,6 +5,12 @@ This project focuses on Super Store Sales Data Analysis and Forecasting with Pow
 
 
 ## Demo
+
+![ezgif-2-604762add8](https://github.com/yuvrajthakurrrr/superstore-powerbi-report/assets/39805648/7076d36e-8c3c-4f14-a9a6-600df8f32de9)
+
+![forecast](https://github.com/yuvrajthakurrrr/superstore-powerbi-report/assets/39805648/43edbc8f-cc4b-4a5e-a2be-e21f2171939b)
+
+
 ## Key Features
 1. Data Transformation:
 Transformed raw data into meaningful insights using Power BI, ensuring accuracy and reliability.
